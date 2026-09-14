@@ -7,12 +7,12 @@ Website: https://getblocker.app
 ## Install
 
 ```bash
-brew install --cask leo-mathurin/blocker/blocker
+brew install --cask blocker-app/blocker/blocker
 ```
 
 ## Manual download
 
-See the [Releases](https://github.com/leo-mathurin/blocker-releases/releases) page. Each release ships a single universal `.dmg` that runs natively on both Apple Silicon (M1/M2/M3/M4) and Intel Macs:
+See the [Releases](https://github.com/blocker-app/blocker-releases/releases) page. Each release ships a single universal `.dmg` that runs natively on both Apple Silicon (M1/M2/M3/M4) and Intel Macs:
 
 - `blocker-<version>.dmg`
 
